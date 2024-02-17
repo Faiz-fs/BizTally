@@ -5,13 +5,18 @@ Features
 Inventory tracking - Add, edit, delete, and monitor stock items and quantities Barcode scanning - Scan item barcodes to quickly add/remove from inventory Invoicing - Generate detailed invoices and receipts for customers Sales reporting - Insightful reports on inventory status and sales activity Online selling - Sell products directly through the app with integrated payment processing
 
 Tech Stack
+
 Frontend: HTML, CSS, JavaScript
+
 Backend: Python, Flask
+
 Database: MongoDB
 
 Getting Started
 Prerequisites
+
 Python 3
+
 MongoDB Community Edition
 
 Usage
